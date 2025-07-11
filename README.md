@@ -28,3 +28,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasareved&show_icons=true&locale=en" alt="kasareved" /></p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kasareved/kasareved/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kasareved/kasareved/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kasareved/kasareved/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
