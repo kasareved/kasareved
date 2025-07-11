@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **vdntkasare@gmail.com**
 
+- <img align="right" height="150" src="https://www.gifcen.com/wp-content/uploads/2022/09/zoro-gif.gif"  />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/glitchnub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="glitchnub" height="30" width="40" /></a>
@@ -28,7 +30,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasareved&show_icons=true&locale=en" alt="kasareved" /></p>
 
-<img align="right" height="150" src="https://www.gifcen.com/wp-content/uploads/2022/09/zoro-gif.gif"  />
+
 
 
 
