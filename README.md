@@ -15,10 +15,11 @@
 
 - 📫 How to reach me **vdntkasare@gmail.com**
 
-- <img align="right" height="150" src="https://www.gifcen.com/wp-content/uploads/2022/09/zoro-gif.gif"  />
+  - <img align="right" height="150" src="https://www.gifcen.com/wp-content/uploads/2022/09/zoro-gif.gif"  />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/kasareved" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kasareved" height="30" width="40" /></a>
 <a href="https://twitter.com/glitchnub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="glitchnub" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vedant kasare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant kasare" height="30" width="40" /></a>
 </p>
@@ -30,8 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasareved&show_icons=true&locale=en" alt="kasareved" /></p>
 
-
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasareved&" alt="kasareved" /></p>
