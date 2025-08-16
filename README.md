@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/glitchnub" target="blank"><img src="https://img.shields.io/twitter/follow/glitchnub?logo=twitter&style=for-the-badge" alt="glitchnub" /></a> </p>
 
-- 🔭 I’m currently working on **frontend projects**
+- 🔭 I’m working on **projects**
 
 - 🌱 I’m currently learning **frontend and framework**
 
