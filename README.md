@@ -1,3 +1,7 @@
+
+  gh repo create kasareved --public --clone
+  cd kasareved
+  mkdir -p scripts data .github/workflows
 <h1 align="center">Hi 👋, I'm Vedant Kasare</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
