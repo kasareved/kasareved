@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="110" viewBox="0 0 860 110">
+<style>
+.b { font: bold 30px monospace; fill: #39d353; }
+.s { font: 12px monospace; fill: #8b949e; }
+.t { opacity: 0; animation: in 0.5s ease-out forwards; }
+@keyframes in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+</style>
+<g class="t" style="animation-delay:0.3s"><rect x="0" y="0" width="200" height="110" rx="8" fill="#161b22"/><text x="100" y="55" class="b" text-anchor="middle">12</text><text x="100" y="84" class="s" text-anchor="middle">contributions</text></g>
+<g class="t" style="animation-delay:0.55s"><rect x="220" y="0" width="200" height="110" rx="8" fill="#161b22"/><text x="320" y="55" class="b" text-anchor="middle">1</text><text x="320" y="84" class="s" text-anchor="middle">current streak (days)</text></g>
+<g class="t" style="animation-delay:0.8s"><rect x="440" y="0" width="200" height="110" rx="8" fill="#161b22"/><text x="540" y="55" class="b" text-anchor="middle">1</text><text x="540" y="84" class="s" text-anchor="middle">longest streak (days)</text></g>
+<g class="t" style="animation-delay:1.05s"><rect x="660" y="0" width="200" height="110" rx="8" fill="#161b22"/><text x="760" y="55" class="b" text-anchor="middle">6</text><text x="760" y="84" class="s" text-anchor="middle">best day (2026-10-21)</text></g>
+</svg>
