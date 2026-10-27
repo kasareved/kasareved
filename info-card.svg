@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="210" viewBox="0 0 490 210">
+<style>
+text { font: 14px monospace; }
+.k { fill: #39d353; font-weight: bold; }
+.v { fill: #c9d1d9; }
+.r { opacity: 0; animation: in 0.5s ease-out forwards; }
+@keyframes in { from { opacity: 0; transform: translateX(-8px); } to { opacity: 1; transform: translateX(0); } }
+</style>
+<rect width="100%" height="100%" rx="8" fill="#0d1117"/>
+<rect width="100%" height="30" rx="8" fill="#161b22"/>
+<circle cx="18" cy="15" r="5" fill="#ff5f56"/>
+<circle cx="36" cy="15" r="5" fill="#ffbd2e"/>
+<circle cx="54" cy="15" r="5" fill="#27c93f"/>
+<text x="75" y="20" fill="#8b949e" style="font-size:12px">kasareved@github</text>
+<text x="20" y="70" class="r" style="animation-delay:0.4s"><tspan class="k">Name:</tspan> <tspan class="v">Vedant</tspan></text>
+<text x="20" y="100" class="r" style="animation-delay:0.75s"><tspan class="k">Now:</tspan> <tspan class="v">Building hackathon projects, DSA</tspan></text>
+<text x="20" y="130" class="r" style="animation-delay:1.1s"><tspan class="k">Stack:</tspan> <tspan class="v">Python, Java, MernStack , Git</tspan></text>
+<text x="20" y="160" class="r" style="animation-delay:1.45s"><tspan class="k">Location:</tspan> <tspan class="v">Maharashtra, India</tspan></text>
+<text x="20" y="190" class="r" style="animation-delay:1.8s"><tspan class="k">Highlights:</tspan> <tspan class="v">Ascending</tspan></text>
+</svg>
